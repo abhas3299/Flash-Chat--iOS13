@@ -21,6 +21,9 @@ Flash Chat is a real-time chat application built using Swift and Firebase. It al
 - **Firebase (Auth + Firestore)**
 - **CocoaPods**
 
+---
+
+
 ## 🧠 What I Learned
 
 - Integrating Firebase in iOS projects
@@ -35,15 +38,13 @@ Flash Chat is a real-time chat application built using Swift and Firebase. It al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Flash-Chat--iOS13.git
+   git clone https://github.com/abhas3299/Flash-Chat--iOS13.git
 
 2. Navigate to the project folder:
    cd Flash-Chat--iOS13
 
-4. Install dependencies using CocoaPods:
-   pod install
+3. Install dependencies using CocoaPods: pod install
 
-5. Open the .xcworkspace file:
-   open Flash\ Chat\ iOS13.xcworkspacex
+4. Open the .xcworkspace file: open Flash\ Chat\ iOS13.xcworkspacex
 
-6. Run the app on a simulator or real device.
+5. Run the app on a simulator or real device.
